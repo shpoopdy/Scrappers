@@ -22,6 +22,7 @@ class Fighter {
 
         //mutators
         void resetHp();
+        void setHp(double new_hp);
 
         //other methods
         void printFighter() const;
