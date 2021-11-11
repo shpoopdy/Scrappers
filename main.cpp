@@ -1,8 +1,3 @@
-/*----
-  by: Mikey
-  last modified: 2021-10-10
-  
-----*/
 #include <iostream>
 #include <string>
 #include <cstdlib>
