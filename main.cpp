@@ -1,11 +1,10 @@
 #include <iostream>
 #include <string>
 #include <cstdlib>
+#include "Scrappers.h"
 
 int main() {
-  //blank for now :D
-
-
+  Scrappers();
 
     return EXIT_SUCCESS;
 }
